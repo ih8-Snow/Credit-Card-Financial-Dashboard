@@ -5,7 +5,9 @@
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 
+
 ### _Dasboard = checkout PDF and Power BI file in above setion_
+
 
 
 ## Overall Performance and Insights for Credit card sales Analysis:
